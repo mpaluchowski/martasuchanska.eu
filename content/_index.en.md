@@ -3,6 +3,13 @@ title: "Marta Suchańska"
 date: 2019-06-12T21:39:27+02:00
 ---
 
+Marta Suchańska
+Hungarian and Bulgarian translator and interpreter
+Tourist guide
+Warsaw, Poland
+Tel. 535 209 679
+E-mail: martasuchanska@gmail.com
+
 Thank you for visiting my website
 
 I am a linguist by trade. I use my knowledge of foreign languages not only working as an interpreter, but also cooperating with Polish and foreign companies that represent various industries. I am a consultant, an intermediary, a legal representative. I am a quick study and willing to take up new challenges. I am interested in new business opportunities. 

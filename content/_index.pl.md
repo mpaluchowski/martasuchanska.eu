@@ -10,6 +10,13 @@ keywords:
     - przedstawiciel handlowy
 ---
 
+Marta Suchańska
+Tłumacz języka węgierskiego oraz bułgarskiego
+Licencjonowany pilot wycieczek krajowych i zagranicznych 
+Warszawa                              
+Tel. 535 209 679
+E-mail: martasuchanska@gmail.com
+
 Witam serdecznie,
 
 Z wykształcenia jestem filologiem.Ukończyłam Slawistykę oraz Hungarystykę na Uniwersytecie Jagiellońskim. Wykorzystuję znajomość języków obcych nie tylko w pracy tłumacza, ale także współpracując z polskimi i zagranicznymi firmami będącymi przedstawicielami różnych branż. Pełnię rolę doradcy, pośrednika, pełnomocnika. Szybko się uczę i chętnie podejmuję nowe wyzwania. Zapraszam do kontaktu.

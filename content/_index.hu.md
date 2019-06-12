@@ -8,6 +8,13 @@ keywords:
     - idegenvezető
 ---
 
+Suchańska Marta
+Magyar és bolgár tolmács
+Idegenvezető
+Varsó, Lengyelország
+Tel. 0048 535 209 679
+E-mail: martasuchanska@gmail.com
+
 Szeretettel üdvözlöm!
 
 A krakkói Jagelló Egyetem Magyar Filológiai Tanszékén, illetve a Szláv Filológiai Intézetnél szereztem végzettséget. Tolmács és fordító vagyok.  Az idegen nyelv ismeretem nemcsak fordításban és tolmácsolásban használom, hanem a különböző tevénykenységeket végző lengyel és külföldi vállalatokkal is együttműködöm. Tanácsadóként, közvetítőként és képviselőként is dolgozom.
