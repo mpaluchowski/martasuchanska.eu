@@ -1,5 +1,15 @@
 baseURL: https://martasuchanska.eu/
-languageCode: pl-pl
 title: Marta Suchańska
 theme: martasuchanska.eu
 googleAnalytics: UA-83630952-1
+DefaultContentLanguage: pl
+languages:
+  pl:
+    languageCode: pl-pl
+    weight: 1
+  hu:
+    languageCode: hu-hu
+    weight: 2
+  en:
+    languageCode: en-uk
+    weight: 3
