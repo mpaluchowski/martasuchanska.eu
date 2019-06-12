@@ -1,6 +1,13 @@
 ---
 title: "Marta Suchańska"
 date: 2019-06-12T21:39:27+02:00
+keywords:
+    - tłumacz węgierski
+    - tłumacz bułgarski
+    - tłumacz języka węgierskiego
+    - tłumacz języka bułgarskiego
+    - pilot wycieczek
+    - przedstawiciel handlowy
 ---
 
 Witam serdecznie,

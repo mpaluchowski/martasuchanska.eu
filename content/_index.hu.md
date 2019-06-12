@@ -1,6 +1,11 @@
 ---
 title: "Marta Suchańska"
 date: 2019-06-12T21:39:27+02:00
+keywords:
+    - fordítás
+    - tolmácsolás
+    - lengyel - magyar tolmács
+    - idegenvezető
 ---
 
 Szeretettel üdvözlöm!
