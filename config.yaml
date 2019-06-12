@@ -6,10 +6,13 @@ DefaultContentLanguage: pl
 languages:
   pl:
     languageCode: pl-pl
+    languageName: Polski
     weight: 1
   hu:
     languageCode: hu-hu
+    languageName: Magyarra
     weight: 2
   en:
     languageCode: en-uk
     weight: 3
+    languageName: English
