@@ -1,0 +1,25 @@
+### Intellij ###
+.idea/
+*.ipr
+*.iws
+*.iml
+
+### SublimeText ###
+*.sublime-workspace
+*.sublime-project
+
+### Visual Studio Code ###
+.settings/
+.vscode/
+
+### SASS ###
+.sass-cache
+*.css
+*.css.map
+
+### Hugo ###
+/public/
+/resources/
+
+### Website ###
+/static/google*.html
