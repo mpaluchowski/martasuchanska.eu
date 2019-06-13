@@ -6,14 +6,15 @@ keywords:
     - tolmácsolás
     - lengyel - magyar tolmács
     - idegenvezető
+address:
+    name: Marta Suchańska
+    entries:
+        - Magyar és bolgár tolmács
+        - Idegenvezető
+        - Varsó, Lengyelország
+    phone: +48 535 209 679
+    email: martasuchanska@gmail.com
 ---
-
-Suchańska Marta
-Magyar és bolgár tolmács
-Idegenvezető
-Varsó, Lengyelország
-Tel. 0048 535 209 679
-E-mail: martasuchanska@gmail.com
 
 Szeretettel üdvözlöm!
 

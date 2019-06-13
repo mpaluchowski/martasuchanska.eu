@@ -17,3 +17,6 @@ languages:
     languageCode: en-uk
     weight: 3
     languageName: English
+params:
+  photo: WWW-Marta-foto2.png
+  name: Marta Suchańska

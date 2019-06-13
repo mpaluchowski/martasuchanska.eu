@@ -1,14 +1,15 @@
 ---
 title: "Marta Suchańska"
 date: 2019-06-12T21:39:27+02:00
+address:
+    name: Marta Suchańska
+    entries:
+        - Hungarian and Bulgarian translator and interpreter
+        - Tourist guide
+        - Warsaw, Poland
+    phone: 535 209 679
+    email: martasuchanska@gmail.com
 ---
-
-Marta Suchańska
-Hungarian and Bulgarian translator and interpreter
-Tourist guide
-Warsaw, Poland
-Tel. 535 209 679
-E-mail: martasuchanska@gmail.com
 
 Thank you for visiting my website
 

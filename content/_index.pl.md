@@ -8,14 +8,15 @@ keywords:
     - tłumacz języka bułgarskiego
     - pilot wycieczek
     - przedstawiciel handlowy
+address:
+    name: Marta Suchańska
+    entries:
+        - Tłumacz języka węgierskiego oraz bułgarskiego
+        - Licencjonowany pilot wycieczek krajowych i zagranicznych
+        - Warszawa
+    phone: 535 209 679
+    email: martasuchanska@gmail.com
 ---
-
-Marta Suchańska
-Tłumacz języka węgierskiego oraz bułgarskiego
-Licencjonowany pilot wycieczek krajowych i zagranicznych 
-Warszawa                              
-Tel. 535 209 679
-E-mail: martasuchanska@gmail.com
 
 Witam serdecznie,
 

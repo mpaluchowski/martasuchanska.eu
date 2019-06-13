@@ -28,6 +28,56 @@ html {
   }
 }
 
+.header {
+  margin: 0 auto;
+  width: $width-total;
+  display: flex;
+  align-items: flex-end;
+
+  &__address {
+    margin-left: 2em;
+  }
+}
+
+.address {
+  &__name {
+    font-weight: 700;
+    font-size: 2.4em;
+  }
+
+  &__entries {
+    font-size: 1.2em;
+    line-height: 1.4;
+    margin-top: .6em;
+  }
+
+  &__contact {
+    font-size: 1.2em;
+    margin-top: .8em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    a {
+      display: inline-block;
+      text-decoration: none;
+      color: #000;
+      clear: both;
+      background: yellow;
+      padding: .1em .2em;
+
+      &:hover {
+        background: darken(yellow, 3%);
+      }
+
+    }
+
+    & a + a {
+      margin-top: .2em;
+    }
+  }
+}
+
 .introduction {
   font-size: 1.2em;
   margin: 0 auto;

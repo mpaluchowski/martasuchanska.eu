@@ -1,4 +1,23 @@
 {{ define "main" }}
+<header class="header">
+    {{ with .Site.Params.photo }}
+    <img class="header__photo" src="{{ . }}" alt="{{ $.Site.Params.name }}">
+    {{ end }}
+    {{ with .Params.address }}
+    <div class="header__address address">
+        <div class="address__name">{{ .name }}</div>
+        <div class="address__entries">
+        {{ range .entries }}
+        {{ . }}<br>
+        {{ end }}
+        </div>
+        <div class="address__contact">
+            <a href="tel:{{ .phone }}">{{ .phone }}</a>
+            <a href="mailto:{{ .email }}">{{ .email }}</a>
+        </div>
+        {{ end }}
+    </div>
+</header>
 <main class="introduction text">
     {{ .Content }}
 </main>
