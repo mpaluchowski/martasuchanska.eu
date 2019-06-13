@@ -1,5 +1,6 @@
-<ul>
+<nav class="languages">
     {{ range $.Site.Home.AllTranslations }}
-    <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+    {{ $isCurrentLang := eq $.Site.Home.Language .Language }}
+    <a class="languages__language{{ if $isCurrentLang }} languages__language--current{{ end }}" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
     {{ end }}
-</ul>
+</nav>

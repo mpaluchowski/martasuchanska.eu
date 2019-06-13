@@ -7,6 +7,27 @@ html {
   }
 }
 
+.languages {
+  padding: 1em;
+  text-align: center;
+
+  &__language {
+    border-bottom: 4px solid transparent;
+    color: lighten(#000, 30%);
+    display: inline-block;
+    font-size: 1.2em;
+    margin: 0 1em;
+    padding: .4em .6em;
+    text-decoration: none;
+
+    &:hover,
+    &--current {
+      border-bottom-color: #000;
+      color: #000;
+    }
+  }
+}
+
 .introduction {
   font-size: 1.2em;
   margin: 0 auto;
