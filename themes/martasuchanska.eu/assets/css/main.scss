@@ -16,7 +16,6 @@ html {
     color: lighten(#000, 30%);
     display: inline-block;
     font-size: 1.2em;
-    margin: 0 1em;
     padding: .4em .6em;
     text-decoration: none;
 
@@ -25,17 +24,36 @@ html {
       border-bottom-color: #000;
       color: #000;
     }
+
+    & + & {
+      margin-left: 1em;
+    }
   }
 }
 
 .header {
-  margin: 0 auto;
-  width: $width-total;
-  display: flex;
   align-items: flex-end;
+  display: flex;
+  margin: 0 auto;
+  padding: 0 1em;
+  max-width: $width-total;
 
   &__address {
     margin-left: 2em;
+  }
+
+  @media #{$responsive-small} {
+    flex-direction: column;
+    align-items: flex-start;
+
+    &__photo {
+      margin-top: 1em;
+    }
+
+    &__address {
+      margin: 0;
+      order: -1;
+    }
   }
 }
 
@@ -80,9 +98,9 @@ html {
 
 .introduction {
   font-size: 1.2em;
-  margin: 0 auto;
+  margin: 1em auto;
   max-width: $width-total;
-  padding: 1em;
+  padding: 0 1em;
 }
 
 .text {
