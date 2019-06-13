@@ -6,3 +6,19 @@ html {
     family: $font-default;
   }
 }
+
+.introduction {
+  font-size: 1.2em;
+  margin: 0 auto;
+  max-width: $width-total;
+  padding: 1em;
+}
+
+.text {
+  line-height: $line-height;
+
+  h2 {
+    font-weight: 700;
+    margin: 1.6em 0 .8em;
+  }
+}
