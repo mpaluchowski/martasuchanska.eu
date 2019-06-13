@@ -13,7 +13,7 @@ html {
 
   &__language {
     border-bottom: 4px solid transparent;
-    color: lighten(#000, 30%);
+    color: scale-color(#000, $lightness: 30%);
     display: inline-block;
     font-size: 1.2em;
     padding: .4em .6em;
@@ -85,7 +85,7 @@ html {
       padding: .1em .2em;
 
       &:hover {
-        background: darken(yellow, 3%);
+        background: scale-color(yellow, $lightness: -5%);
       }
 
     }
