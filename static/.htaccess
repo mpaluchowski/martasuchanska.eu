@@ -1,0 +1,4 @@
+
+Redirect permanent "/index.php/pl" "/pl"
+Redirect permanent "/index.php/en" "/en"
+Redirect permanent "/index.php/hu" "/hu"
