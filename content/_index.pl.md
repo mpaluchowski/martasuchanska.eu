@@ -14,7 +14,7 @@ address:
         - Tłumacz języka węgierskiego oraz bułgarskiego
         - Licencjonowany pilot wycieczek krajowych i zagranicznych
         - Warszawa
-    phone: 535 209 679
+    phone: +48 535 209 679
     email: martasuchanska@gmail.com
 ---
 
@@ -26,17 +26,17 @@ Z wykształcenia jestem filologiem. Ukończyłam Slawistykę oraz Hungarystykę 
 
 - Kompleksowa obsługa tłumaczeniowa firm, instytucji i osób prywatnych
     - tłumaczenia pisemne zwykłe jak i specjalistyczne (m.in. tłumaczenia techniczne, medyczne, tłumaczenia z zakresu finansów i bankowości, umowy handlowe, materiały reklamowe, strony internetowe),
-    - kombinacje językowe: 
+    - kombinacje językowe:
         - z języka polskiego na język węgierski, z węgierskiego na polski
         - z angielskiego na węgierski, z angielskiego na bułgarski,
-        - z bułgarskiego na polski, z polskiego na bułgarski;  
+        - z bułgarskiego na polski, z polskiego na bułgarski;
     - tłumaczenia ustne konsekutywne;
 - Przedstawicielstwo spółek handlowych:
     - utrzymywanie kontaktów handlowych w języku węgierskim i polskim. Tłumaczenie korespondencji, umów i rozmów handlowych
 - Pilotaż wycieczek -- specjalizacja: Bułgaria, Węgry
-- Wyjazdy studyjne (organizacja oraz tłumaczenia) -- Węgry, 
+- Wyjazdy studyjne (organizacja oraz tłumaczenia) -- Węgry,
 - Badania rynku i analiza konkurencji -- zlecenia dla polskich oraz zagranicznych firm
- 
+
 ## Zaufali mi m.in:
 
 BROS, Danae, NRI, Pitted Cherries, Fortiso GmbH, Agencje Rozwoju Lokalnego, biura tłumaczeń i agencje turystyczne z całej Polski.

@@ -7,13 +7,13 @@ address:
         - Hungarian and Bulgarian translator and interpreter
         - Tourist guide
         - Warsaw, Poland
-    phone: 535 209 679
+    phone: +48 535 209 679
     email: martasuchanska@gmail.com
 ---
 
 Thank you for visiting my website
 
-I am a linguist by trade. I use my knowledge of foreign languages not only working as an interpreter, but also cooperating with Polish and foreign companies that represent various industries. I am a consultant, an intermediary, a legal representative. I am a quick study and willing to take up new challenges. I am interested in new business opportunities. 
+I am a linguist by trade. I use my knowledge of foreign languages not only working as an interpreter, but also cooperating with Polish and foreign companies that represent various industries. I am a consultant, an intermediary, a legal representative. I am a quick study and willing to take up new challenges. I am interested in new business opportunities.
 
 ## Work experience
 
