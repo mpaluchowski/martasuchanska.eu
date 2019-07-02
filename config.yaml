@@ -11,7 +11,7 @@ languages:
     weight: 1
   hu:
     languageCode: hu-hu
-    languageName: Magyarra
+    languageName: Magyar
     weight: 2
   en:
     languageCode: en-uk
