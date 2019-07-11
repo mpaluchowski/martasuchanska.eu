@@ -34,7 +34,7 @@ html {
 .header {
   align-items: flex-end;
   display: flex;
-  margin: 0 auto;
+  margin: 1em auto 2em;
   padding: 0 1em;
   max-width: $width-total;
 
@@ -98,7 +98,7 @@ html {
 
 .introduction {
   font-size: 1.2em;
-  margin: 1em auto;
+  margin: 1em auto 3em;
   max-width: $width-total;
   padding: 0 1em;
 }
