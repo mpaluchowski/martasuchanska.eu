@@ -81,11 +81,11 @@ html {
       text-decoration: none;
       color: #000;
       clear: both;
-      background: yellow;
+      background: #c2e7ff;
       padding: .1em .2em;
 
       &:hover {
-        background: scale-color(yellow, $lightness: -5%);
+        background: scale-color(#c2e7ff, $lightness: -15%);
       }
 
     }
