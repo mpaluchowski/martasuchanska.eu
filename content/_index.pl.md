@@ -11,7 +11,7 @@ keywords:
 address:
     name: Marta Suchańska
     entries:
-        - Tłumacz języka węgierskiego oraz bułgarskiego
+        - Tłumacz języka __węgierskiego__ oraz __bułgarskiego__
         - Licencjonowany pilot wycieczek krajowych i zagranicznych
         - Warszawa
     phone: +48 535 209 679

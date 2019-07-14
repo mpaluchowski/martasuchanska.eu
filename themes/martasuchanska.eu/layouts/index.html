@@ -8,7 +8,7 @@
         <div class="address__name">{{ .name }}</div>
         <div class="address__entries">
         {{ range .entries }}
-        {{ . }}<br>
+        {{ . | markdownify }}<br>
         {{ end }}
         </div>
         <div class="address__contact">
