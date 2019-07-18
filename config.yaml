@@ -13,10 +13,14 @@ languages:
     languageCode: hu-hu
     languageName: Magyar
     weight: 2
+  bg:
+    languageCode: bg-vg
+    languageName: Български
+    weight: 3
   en:
     languageCode: en-uk
-    weight: 3
     languageName: English
+    weight: 4
 params:
   photo: marta-suchanska.jpg
   name: Marta Suchańska
